@@ -23,6 +23,10 @@
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/caioom/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
-    <a href="mailto:caio.ds.2003@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
+    <a href="https://www.linkedin.com/in/caioom/" alt="Linkedin">
+      <img src="https://github.com/Caioom/Caioom/blob/footer/linkedin-icon.png" height="40" width="40">
+    </a>
+    <a href="mailto:caio.ds.2003@gmail.com" alt="Contact me">
+      <img src="https://github.com/Caioom/Caioom/blob/footer/gmail-icon.webp" height="40" width="40">
+    </a>
   </p>
